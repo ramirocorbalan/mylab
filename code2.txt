@@ -1,2 +1,6 @@
 correccion de problema
+<<<<<<< HEAD
 cambios desde repo local
+=======
+cambios desde la web
+>>>>>>> 2fa266083ef2d0a822788b812a29dc83b263c3cc
