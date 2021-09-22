@@ -1,1 +1,2 @@
 correccion de problema
+cambios desde repo local
